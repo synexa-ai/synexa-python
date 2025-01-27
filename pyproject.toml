@@ -25,4 +25,4 @@ dependencies = [
 
 [project.urls]
 "Homepage" = "https://synexa.ai"
-"Bug Tracker" = "https://github.com/synexa/synexa-python/issues"
+"Bug Tracker" = "https://github.com/synexa-ai/synexa-python/issues"
